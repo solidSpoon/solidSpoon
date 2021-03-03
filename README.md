@@ -1,4 +1,7 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/39454841/109831741-af125280-7c7a-11eb-8039-dac0721ed2a9.png)
+
+
+
 
 <!--
 **solidSpoon/solidSpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
