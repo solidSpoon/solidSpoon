@@ -1,3 +1,6 @@
+[Blog](https://solidspoon.xyz) | [LeetCode](https://www.yuque.com/solidspoon/dn5iu7)
+
+
 [![image](https://user-images.githubusercontent.com/39454841/109831741-af125280-7c7a-11eb-8039-dac0721ed2a9.png)](https://solidspoon.xyz)
 
 
