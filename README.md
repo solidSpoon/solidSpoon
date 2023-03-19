@@ -6,7 +6,7 @@
 
 ---
 
-[Blog](https://solidspoon.xyz) | [LeetCode](https://www.yuque.com/solidspoon/dn5iu7)
+[Blog](https://solidspoon.xyz) | [LeetCode](https://www.yuque.com/solidspoon/dn5iu7) | [TodayIFound](https://github.com/solidSpoon/TodayIFound/issues)
 
 
 
