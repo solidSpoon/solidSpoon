@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 
-  <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=coffeescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white" />
